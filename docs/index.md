@@ -17,25 +17,25 @@ This is the example accompanying repository for the Sound of DAFx special issue.
 
 #### Initial
 <audio controls>
-  <source src="{{ site.baseurl }}/examples/sounds/600/ir_init_600.wav" type="audio/wav">
+  <source src="./sounds/600/ir_init_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Optimized
 <audio controls>
-  <source src="{{ site.baseurl }}/examples/sounds/600/ir_optim_600.wav" type="audio/wav">
+  <source src="./sounds/600/ir_optim_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Rounded
 <audio controls>
-  <source src="{{ site.baseurl }}/examples/sounds/600/rounded_optim_600.wav" type="audio/wav">
+  <source src="./sounds/600/rounded_optim_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Velvet
 <audio controls>
-  <source src="{{ site.baseurl }}/examples/sounds/VelvetNoise/velvet_600.wav" type="audio/wav">
+  <source src="./sounds/VelvetNoise/velvet_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
