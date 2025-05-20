@@ -13,7 +13,7 @@ This is the example accompanying repository for the 28th International Conferenc
 
 ## Delay Optimization 
 
-### 600 
+### **600** 
 
 #### Initial
 <audio controls>
@@ -39,7 +39,9 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-### 800 
+
+
+### **800** 
 
 #### Initial
 <audio controls>
@@ -65,7 +67,9 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-### 1000 
+
+
+### **1000** 
 
 #### Initial
 <audio controls>
@@ -91,7 +95,9 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-### 1500 
+
+
+### **1500** 
 
 #### Initial
 <audio controls>
@@ -117,7 +123,9 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-### 3000 
+
+
+### **3000** 
 
 #### Initial
 <audio controls>
@@ -143,7 +151,9 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-### 7000 
+
+
+### **7000** 
 
 #### Initial
 <audio controls>
@@ -163,8 +173,7 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
-#### Velvet 
-
+#### Velvet
 <audio controls>
   <source src="sounds/VelvetNoise/velvet_7000.wav" type="audio/wav">
   Your browser does not support the audio tag. 
