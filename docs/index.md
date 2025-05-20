@@ -17,7 +17,8 @@ This is the example accompanying repository for the 28th International Conferenc
 
 #### Initial
 <audio controls preload="auto">
-  <source src="/sounds/600/ir_init_600.wav" type="audio/wav">
+  <source src="/sounds/600/ir_init_600.wav" type="audio/ogg">
+  <source src="/sounds/600/ir_init_600.wav" type="audio/mpeg">
   Your browser does not support the audio tag. 
 </audio>
 
@@ -38,9 +39,6 @@ This is the example accompanying repository for the 28th International Conferenc
   <source src="/sounds/VelvetNoise/velvet_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
-
-
-Spectrogram of ISM
 
 ---
 
