@@ -39,6 +39,137 @@ This is the example accompanying repository for the 28th International Conferenc
   Your browser does not support the audio tag. 
 </audio>
 
+### 800 
+
+#### Initial
+<audio controls>
+  <source src="sounds/800/ir_init_800.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Optimized
+<audio controls>
+  <source src="sounds/800/ir_optim_800.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Rounded
+<audio controls>
+  <source src="sounds/800/rounded_optim_800.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_800.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+### 1000 
+
+#### Initial
+<audio controls>
+  <source src="sounds/1000/ir_init_1000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Optimized
+<audio controls>
+  <source src="sounds/1000/ir_optim_1000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Rounded
+<audio controls>
+  <source src="sounds/1000/rounded_optim_1000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_1000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+### 1500 
+
+#### Initial
+<audio controls>
+  <source src="sounds/1500/ir_init_1500.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Optimized
+<audio controls>
+  <source src="sounds/1500/ir_optim_1500.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Rounded
+<audio controls>
+  <source src="sounds/1500/rounded_optim_1500.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_1500.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+### 3000 
+
+#### Initial
+<audio controls>
+  <source src="sounds/3000/ir_init_3000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Optimized
+<audio controls>
+  <source src="sounds/3000/ir_optim_3000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Rounded
+<audio controls>
+  <source src="sounds/3000/rounded_optim_3000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_3000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+### 7000 
+
+#### Initial
+<audio controls>
+  <source src="sounds/7000/ir_init_7000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Optimized
+<audio controls>
+  <source src="sounds/7000/ir_optim_7000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Rounded
+<audio controls>
+  <source src="sounds/7000/rounded_optim_7000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet 
+
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_7000.wav" type="audio/wav">
+  Your browser does not support the audio tag. 
+</audio>
+
 ---
 
 This project is maintained by [CristobalAndrade](https://github.com/CristobalAndrade)
