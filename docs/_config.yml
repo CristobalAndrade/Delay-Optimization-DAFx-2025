@@ -21,7 +21,7 @@
 title: 28th International Conference on Digital Audio Effects (DAFx25)
 email: cristobal.andrade@fau.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the example accompanying repository for the Sound of DAFx special issue.
+  This is the example accompanying repository for the 28th International Conference on Digital Audio Effects (DAFx25).
 baseurl: "/ShoeboxEnergyDecay" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
