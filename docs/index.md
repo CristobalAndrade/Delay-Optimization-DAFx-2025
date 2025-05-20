@@ -1,3 +1,51 @@
+---
+layout: default
+title: Sound of DAFx
+---
+
+# Sound of DAFx
+
+This is the example accompanying repository for the Sound of DAFx special issue.
+
+[View the Project on GitHub](https://github.com/your-username/SoundOfDAFx)
+
+# Supplemental Material
+
+## Section 1
+
+### Example 1
+
+<audio controls>
+  <source src="examples/example1.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+Spectrogram of ISM
+
+### Example 2
+
+<audio controls>
+  <source src="examples/example2.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+Spectrogram of ISM
+
+### Example 3
+
+<audio controls>
+  <source src="examples/example3.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+Spectrogram of ISM
+
+---
+
+This project is maintained by [your-username](https://github.com/your-username)
+
+Hosted on GitHub Pages — Theme by [orderedlist](https://github.com/orderedlist)
+
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
