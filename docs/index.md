@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sound of DAFx
+title: 28th International Conference on Digital Audio Effects (DAFx25)
 ---
 
-# Sound of DAFx
+# 28th International Conference on Digital Audio Effects (DAFx25)
 
-This is the example accompanying repository for the Sound of DAFx special issue.
+This is the example accompanying repository for the 28th International Conference on Digital Audio Effects (DAFx25).
 
 [View the Project on GitHub](https://github.com/CristobalAndrade/Delay-Optimization-DAFx-2025)
 
