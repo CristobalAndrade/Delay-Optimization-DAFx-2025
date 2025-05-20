@@ -22,10 +22,10 @@ title: Sound of DAFx
 email: your-email@example.com
 description: >- 
   This is the example accompanying repository for the Sound of DAFx special issue.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Delay-Optimization-DAFx-2025" # the subpath of your site
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: your-github-username
+github_username: CristobalAndrade
 
 # Build settings
 theme: jekyll-theme-minimal
