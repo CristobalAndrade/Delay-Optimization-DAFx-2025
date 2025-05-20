@@ -19,39 +19,36 @@
 
     
 # Supplemental Material
-
-
-## Section 1
- 
-
-### Example 1
-
-<audio controls>
-  <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/ogg">
-  <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/mpeg">
-  Your browser does not support the audio tag. 
-</audio>
-
-<img src="{{ site.baseurl}}/examples/images/Fig9a.png" alt="Spectrgrom of ISM" style="height: 200px; width:600px;"/>
-
-### Example 2
-
-<audio controls>
-  <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/ogg">
-  <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/mpeg">
-  Your browser does not support the audio tag. 
-</audio>
-
 <img src="{{ site.baseurl}}/examples/images/Fig9b.png" alt="Spectrgrom of ISM" style="height: 200px; width:600px;"/>
 
+## Delay Optimization 
 
-### Example 3
+### 600 
 
+#### Initial
 <audio controls>
-  <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/ogg">
-  <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/mpeg">
+  <source src="{{ site.baseurl}}/examples/sounds/600/ir_init_600.wav" type="audio/ogg">
+  <source src="{{ site.baseurl}}/examples/sounds/600/ir_init_600.wav" type="audio/mpeg">
   Your browser does not support the audio tag. 
 </audio>
 
-<img src="{{ site.baseurl}}/examples/images/Fig9c.png" alt="Spectrgrom of ISM" style="height: 200px; width:600px;"/>
+#### Optimized
+<audio controls>
+  <source src="{{ site.baseurl}}/examples/sounds/600/ir_optim_600.wav" type="audio/ogg">
+  <source src="{{ site.baseurl}}/examples/sounds/600/ir_optim_600.wav" type="audio/mpeg">
+  Your browser does not support the audio tag. 
+</audio>
 
+#### Rounded
+<audio controls>
+  <source src="{{ site.baseurl}}/examples/sounds/600/rounded_optim_600.wav" type="audio/ogg">
+  <source src="{{ site.baseurl}}/examples/sounds/600/rounded_optim_600.wav" type="audio/mpeg">
+  Your browser does not support the audio tag. 
+</audio>
+
+#### Velvet
+<audio controls>
+  <source src="{{ site.baseurl}}/examples/sounds/VelvetNoise/velvet_600.wav" type="audio/ogg">
+  <source src="{{ site.baseurl}}/examples/sounds/VelvetNoise/velvet_600.wav" type="audio/mpeg">
+  Your browser does not support the audio tag. 
+</audio>
