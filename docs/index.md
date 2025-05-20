@@ -16,27 +16,26 @@ This is the example accompanying repository for the 28th International Conferenc
 ### 600 
 
 #### Initial
-<audio controls preload="auto">
-  <source src="/sounds/600/ir_init_600.wav" type="audio/ogg">
-  <source src="/sounds/600/ir_init_600.wav" type="audio/mpeg">
+<audio controls>
+  <source src="sounds/600/ir_init_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Optimized
-<audio controls preload="auto">
-  <source src="/sounds/600/ir_optim_600.wav" type="audio/wav">
+<audio controls>
+  <source src="sounds/600/ir_optim_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Rounded
-<audio controls preload="auto">
-  <source src="/sounds/600/rounded_optim_600.wav" type="audio/wav">
+<audio controls>
+  <source src="sounds/600/rounded_optim_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
 #### Velvet
-<audio controls preload="auto">
-  <source src="/sounds/VelvetNoise/velvet_600.wav" type="audio/wav">
+<audio controls>
+  <source src="sounds/VelvetNoise/velvet_600.wav" type="audio/wav">
   Your browser does not support the audio tag. 
 </audio>
 
